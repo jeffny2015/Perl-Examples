@@ -19,7 +19,7 @@ Para correr el programa vamos a la dirección donde se encuentra la carpeta que 
 Instalar el modulo de TableExtract, en Ubuntu(puede que funcione para otras distros):
 
 Primero ejecutamos
-> ```Bash
+```bash
 sudo apt-cache search TableExtract
 ```
 Segundo
